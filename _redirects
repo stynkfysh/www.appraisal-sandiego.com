@@ -1,0 +1,3 @@
+/index.html / 301
+/services/* /appraisal-types/:splat 301
+/areas/* /san-diego-county/ 301
